@@ -1,0 +1,6 @@
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\bin\Debug\MatrizTranspuesta.exe.config
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\bin\Debug\MatrizTranspuesta.exe
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\bin\Debug\MatrizTranspuesta.pdb
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\obj\Debug\MatrizTranspuesta.csprojResolveAssemblyReference.cache
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\obj\Debug\MatrizTranspuesta.exe
+D:\Inacap\2 año\Taller de progra III\MatrizTranspuesta\MatrizTranspuesta\obj\Debug\MatrizTranspuesta.pdb
